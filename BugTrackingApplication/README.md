@@ -1,6 +1,3 @@
-# BugTrackingApplication
-This application was developed to track bugs/errors on software development projects and solve them later. It was developed using C# programming language as a College Assignment.
-
 Technologies Used
 - C#
 - MS SQL Server 2014
