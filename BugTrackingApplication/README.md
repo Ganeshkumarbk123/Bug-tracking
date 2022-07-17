@@ -1,7 +1,7 @@
 Technologies Used
 - C#
-- MS SQL Server 2014
-- Bitbucket
+- MS SQL Server 
+
 
 It can do
 - Add/Manage Users like (Testers, Debuggers and Admins)
